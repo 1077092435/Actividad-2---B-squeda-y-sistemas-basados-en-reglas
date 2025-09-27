@@ -1,0 +1,16 @@
+[
+    {"origen": "A", "destino": "C", "linea": "L1", "tiempo_transito": 10},
+    {"origen": "C", "destino": "B", "linea": "L2", "tiempo_transito": 15},
+    {"origen": "A", "destino": "D", "linea": "L3", "tiempo_transito": 25},
+    {"origen": "D", "destino": "B", "linea": "L3", "tiempo_transito": 20},
+    {"origen": "C", "destino": "D", "linea": "L1", "tiempo_transito": 8},
+    {"origen": "D", "destino": "E", "linea": "L3", "tiempo_transito": 5},
+    
+
+    {"origen": "C", "destino": "A", "linea": "L1", "tiempo_transito": 10},
+    {"origen": "B", "destino": "C", "linea": "L2", "tiempo_transito": 15},
+    {"origen": "D", "destino": "A", "linea": "L3", "tiempo_transito": 25},
+    {"origen": "B", "destino": "D", "linea": "L3", "tiempo_transito": 20},
+    {"origen": "D", "destino": "C", "linea": "L1", "tiempo_transito": 8},
+    {"origen": "E", "destino": "D", "linea": "L3", "tiempo_transito": 5}
+]
