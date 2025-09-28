@@ -1,3 +1,13 @@
+INSTRUCCIONES PARA EJECUCIÓN
+
+1) Clonar el repositorio con gitclone https://github.com/1077092435/Actividad-2---B-squeda-y-sistemas-basados-en-reglas
+2) Instalar las dependencias pip install networkx
+3) Ejecutar el archivo principal python SistemaRutas.py
+4) Ingresar Estacion origen ejemplo A
+5) Ingresar Estacion destino ejemplo B
+6) Ingresar si la ruta tiene que ser accesible ejemplo S
+7) Esperar resultados
+
 Este sistema es una aplicación en Python que funciona como un motor de reglas lógicas para encontrar la mejor ruta de transporte público entre dos puntos, no solo la más corta.
 
 Componente	Qué Hace	Valor Inteligente
